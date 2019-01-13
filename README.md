@@ -16,11 +16,11 @@ Trojan Trunk opens, the Qyson v11 b.a.g.l.e.s.s Slaves Cargo to commit the abduc
 ## Communication links secured, Thanks to Open Source Cosmos community :
 
 
-  * Instagram - [https://www.instagram.com/terraxit/]()
-  * Youtube  -- [https://www.youtube.com/channel/UCgzfdsYYkPnrsaoZQfR5Xfg]()
-  * Facebook -- [https://www.facebook.com/terraxit/]()
-  * Twitter  -- [https://twitter.com/terraxit1]()
-  * Github  --- [https://github.com/terraxit]()
+  * Instagram - [linkMe](https://www.instagram.com/terraxit/)
+  * Youtube  -- [linkMe](https://www.youtube.com/channel/UCgzfdsYYkPnrsaoZQfR5Xfg)
+  * Facebook -- [linkMe](https://www.facebook.com/terraxit/)
+  * Twitter  -- [linkMe](https://twitter.com/terraxit1)
+  * Github  --- [linkMe](https://github.com/terraxit)
 
 
 
